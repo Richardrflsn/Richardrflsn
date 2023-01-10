@@ -35,5 +35,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Snake Graph!
 ![snake gif](https://github.com/Richardrflsn/Richardrflsn/blob/output/github-contribution-grid-snake.gif)
