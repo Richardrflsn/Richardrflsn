@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on **a personal website**
  
- 🌱 I’m currently learning **Python, Java, React Native Expo**
+ 🌱 I’m currently learning **Python, Java, React Native Expo, Laravel**
 
  💬 Ask me about **C, Java, Python, mySQL... or anything [here](https://github.com/Richardrflsn/Richardrflsn/issues)**
 
