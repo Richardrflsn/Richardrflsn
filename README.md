@@ -12,9 +12,11 @@
  
  🔭 I’m currently working on **a android application**
  
- 🌱 I’m currently learning **Python, Java, React Native Expo, Laravel**
+ 🌱 I’m currently learning **Javascript, Flutter, React Native Expo, Laravel**
 
  💬 Ask me about **C, Java, Python, mySQL... or anything [here](https://github.com/Richardrflsn/Richardrflsn/issues)**
+
+ 💼 Business inquire: Richardrflsn@gmail.com
 
  ⚡ Fun fact **I Like You**
  
@@ -37,8 +39,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=github,python,javascript,c,java" /><br>
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mysql,html,css,vscode,figma,git" />
+    <img src="https://skillicons.dev/icons?i=github,python,javascript,c,java, androidstudio, flutter" /><br>
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,mysql,html,css,vscode,figma,git, arduino, unity" />
 </div>
 
 <br/>
